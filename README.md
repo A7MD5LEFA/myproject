@@ -1,3 +1,3 @@
 # myproject
 this is test repo
-this repo is created by <h1>Ahmad kjalifa</h1>
+this repo is created by <h1>Ahmad khalifa</h1>
